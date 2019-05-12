@@ -21,3 +21,4 @@ Few screenshots of the working :
 ![alt text](https://github.com/arvinds97/ANDROID-CHAT-APPLICATION/blob/master/Screenshot_2019-04-13-17-59-13-869_com.example.dell.chaton.png)
 
 
+![alt text](https://github.com/arvinds97/ANDROID-CHAT-APPLICATION/blob/master/Screenshot_2019-04-13-17-32-19-300_com.example.dell.chaton.png)
