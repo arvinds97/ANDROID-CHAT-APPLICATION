@@ -3,8 +3,21 @@ A Chat Application for android devices. This application includes features like 
 
 Backend : FireBase Database.
 
-Screenshots of the working :
+Few screenshots of the working :
+
+
 ![alt text](https://github.com/arvinds97/ANDROID-CHAT-APPLICATION/blob/master/Screenshot_2019-04-13-17-30-53-327_com.example.dell.chaton.png)
+
+
 ![alt text](https://github.com/arvinds97/ANDROID-CHAT-APPLICATION/blob/master/Screenshot_2019-04-13-17-41-47-528_com.example.dell.chaton.png)
+
+
+![alt text](https://github.com/arvinds97/ANDROID-CHAT-APPLICATION/blob/master/Screenshot_2019-04-13-17-55-13-433_com.example.dell.chaton.png)
+
+
+![alt text](https://github.com/arvinds97/ANDROID-CHAT-APPLICATION/blob/master/Screenshot_2019-04-13-17-59-23-165_com.example.dell.chaton.png)
+
+
+![alt text](https://github.com/arvinds97/ANDROID-CHAT-APPLICATION/blob/master/Screenshot_2019-04-13-17-59-13-869_com.example.dell.chaton.png)
 
 
